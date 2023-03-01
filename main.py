@@ -55,16 +55,19 @@ li:last-child {
   </style>
   <nav>
   <ul>
-    <li><a href="http://127.0.0.1:8000/">Home</a></li>
-    <li><a href="http://127.0.0.1:8000/wicket">Highest Wickets</a></li>
-    <li><a href="http://127.0.0.1:8000/video">Video</a></li>
-    <li><a href="http://127.0.0.1:8000/pointstable">Points Table</a></li>
-    <li><a href="http://127.0.0.1:8000/batsman">Batsman</a></li>
-    <li><a href="http://127.0.0.1:8000/centuries">Centuries</a></li>
-    <li><a href="http://127.0.0.1:8000/sponsors">Sponsors</a></li>
-    <li><a href="http://127.0.0.1:8000/News">News</a></li>
-    <li><a href="http://127.0.0.1:8000/about">About Us</a></li>
+    <li><a href="http://35.93.123.18/">Home</a></li>
+    <li><a href="http://35.93.123.18/wicket">Highest Wickets</a></li>
+    <li><a href="http://35.93.123.18/video">Video</a></li>
+    <li><a href="http://35.93.123.18/pointstable">Points Table</a></li>
+    <li><a href="http://35.93.123.18/batsman">Batsman</a></li>
+    <li><a href="http://35.93.123.18/centuries">Centuries</a></li>
+    <li><a href="http://35.93.123.18/sponsors">Sponsors</a></li>
+    <li><a href="http://35.93.123.18/News">News</a></li>
+    <li><a href="http://35.93.123.18/about">About Us</a></li>
   </ul>
+
+
+
 </nav>
 
   <div class="w3-display-Left w3-padding-large w3-border w3-wide w3-text-black w3-align:right">
@@ -181,15 +184,15 @@ li:last-child {
   </style>
   <nav>
   <ul>
-    <li><a href="http://127.0.0.1:8000/">Home</a></li>
-    <li><a href="http://127.0.0.1:8000/wicket">Highest Wickets</a></li>
-    <li><a href="http://127.0.0.1:8000/video">Video</a></li>
-    <li><a href="http://127.0.0.1:8000/pointstable">Points Table</a></li>
-    <li><a href="http://127.0.0.1:8000/batsman">Batsman</a></li>
-    <li><a href="http://127.0.0.1:8000/centuries">Centuries</a></li>
-    <li><a href="http://127.0.0.1:8000/sponsors">Sponsors</a></li>
-    <li><a href="http://127.0.0.1:8000/News">News</a></li>
-    <li><a href="http://127.0.0.1:8000/about">About Us</a></li>
+    <li><a href="http://35.93.123.18/">Home</a></li>
+    <li><a href="http://35.93.123.18/wicket">Highest Wickets</a></li>
+    <li><a href="http://35.93.123.18/video">Video</a></li>
+    <li><a href="http://35.93.123.18/pointstable">Points Table</a></li>
+    <li><a href="http://35.93.123.18/batsman">Batsman</a></li>
+    <li><a href="http://35.93.123.18/centuries">Centuries</a></li>
+    <li><a href="http://35.93.123.18/sponsors">Sponsors</a></li>
+    <li><a href="http://35.93.123.18/News">News</a></li>
+    <li><a href="http://35.93.123.18/about">About Us</a></li>
   </ul>
 </nav>
 
@@ -363,15 +366,15 @@ li:last-child {
   </style>
   <nav>
   <ul>
-    <li><a href="http://127.0.0.1:8000/">Home</a></li>
-    <li><a href="http://127.0.0.1:8000/wicket">Highest Wickets</a></li>
-    <li><a href="http://127.0.0.1:8000/video">Video</a></li>
-    <li><a href="http://127.0.0.1:8000/pointstable">Points Table</a></li>
-    <li><a href="http://127.0.0.1:8000/batsman">Batsman</a></li>
-    <li><a href="http://127.0.0.1:8000/centuries">Centuries</a></li>
-    <li><a href="http://127.0.0.1:8000/sponsors">Sponsors</a></li>
-    <li><a href="http://127.0.0.1:8000/News">News</a></li>
-    <li><a href="http://127.0.0.1:8000/about">About Us</a></li>
+    <li><a href="http://35.93.123.18/">Home</a></li>
+    <li><a href="http://35.93.123.18/wicket">Highest Wickets</a></li>
+    <li><a href="http://35.93.123.18/video">Video</a></li>
+    <li><a href="http://35.93.123.18/pointstable">Points Table</a></li>
+    <li><a href="http://35.93.123.18/batsman">Batsman</a></li>
+    <li><a href="http://35.93.123.18/centuries">Centuries</a></li>
+    <li><a href="http://35.93.123.18/sponsors">Sponsors</a></li>
+    <li><a href="http://35.93.123.18/News">News</a></li>
+    <li><a href="http://35.93.123.18/about">About Us</a></li>
   </ul>
 </nav>
 
@@ -608,15 +611,15 @@ li:last-child {
   </style>
   <nav>
   <ul>
-    <li><a href="http://127.0.0.1:8000/">Home</a></li>
-    <li><a href="http://127.0.0.1:8000/wicket">Highest Wickets</a></li>
-    <li><a href="http://127.0.0.1:8000/video">Video</a></li>
-    <li><a href="http://127.0.0.1:8000/pointstable">Points Table</a></li>
-    <li><a href="http://127.0.0.1:8000/batsman">Batsman</a></li>
-    <li><a href="http://127.0.0.1:8000/centuries">Centuries</a></li>
-    <li><a href="http://127.0.0.1:8000/sponsors">Sponsors</a></li>
-    <li><a href="http://127.0.0.1:8000/News">News</a></li>
-    <li><a href="http://127.0.0.1:8000/about">About Us</a></li>
+    <li><a href="http://35.93.123.18/">Home</a></li>
+    <li><a href="http://35.93.123.18/wicket">Highest Wickets</a></li>
+    <li><a href="http://35.93.123.18/video">Video</a></li>
+    <li><a href="http://35.93.123.18/pointstable">Points Table</a></li>
+    <li><a href="http://35.93.123.18/batsman">Batsman</a></li>
+    <li><a href="http://35.93.123.18/centuries">Centuries</a></li>
+    <li><a href="http://35.93.123.18/sponsors">Sponsors</a></li>
+    <li><a href="http://35.93.123.18/News">News</a></li>
+    <li><a href="http://35.93.123.18/about">About Us</a></li>
   </ul>
 </nav>
 
@@ -814,15 +817,15 @@ li:last-child {
   </style>
   <nav>
   <ul>
-    <li><a href="http://127.0.0.1:8000/">Home</a></li>
-    <li><a href="http://127.0.0.1:8000/wicket">Highest Wickets</a></li>
-    <li><a href="http://127.0.0.1:8000/video">Video</a></li>
-    <li><a href="http://127.0.0.1:8000/pointstable">Points Table</a></li>
-    <li><a href="http://127.0.0.1:8000/batsman">Batsman</a></li>
-    <li><a href="http://127.0.0.1:8000/centuries">Centuries</a></li>
-    <li><a href="http://127.0.0.1:8000/sponsors">Sponsors</a></li>
-    <li><a href="http://127.0.0.1:8000/News">News</a></li>
-    <li><a href="http://127.0.0.1:8000/about">About Us</a></li>
+    <li><a href="http://35.93.123.18/">Home</a></li>
+    <li><a href="http://35.93.123.18/wicket">Highest Wickets</a></li>
+    <li><a href="http://35.93.123.18/video">Video</a></li>
+    <li><a href="http://35.93.123.18/pointstable">Points Table</a></li>
+    <li><a href="http://35.93.123.18/batsman">Batsman</a></li>
+    <li><a href="http://35.93.123.18/centuries">Centuries</a></li>
+    <li><a href="http://35.93.123.18/sponsors">Sponsors</a></li>
+    <li><a href="http://35.93.123.18/News">News</a></li>
+    <li><a href="http://35.93.123.18/about">About Us</a></li>
   </ul>
 </nav>
 
@@ -988,15 +991,15 @@ li:last-child {
   </style>
   <nav>
   <ul>
-    <li><a href="http://127.0.0.1:8000/">Home</a></li>
-    <li><a href="http://127.0.0.1:8000/wicket">Highest Wickets</a></li>
-    <li><a href="http://127.0.0.1:8000/video">Video</a></li>
-    <li><a href="http://127.0.0.1:8000/pointstable">Points Table</a></li>
-    <li><a href="http://127.0.0.1:8000/batsman">Batsman</a></li>
-    <li><a href="http://127.0.0.1:8000/centuries">Centuries</a></li>
-    <li><a href="http://127.0.0.1:8000/sponsors">Sponsors</a></li>
-    <li><a href="http://127.0.0.1:8000/News">News</a></li>
-    <li><a href="http://127.0.0.1:8000/about">About Us</a></li>
+    <li><a href="http://35.93.123.18/">Home</a></li>
+    <li><a href="http://35.93.123.18/wicket">Highest Wickets</a></li>
+    <li><a href="http://35.93.123.18/video">Video</a></li>
+    <li><a href="http://35.93.123.18/pointstable">Points Table</a></li>
+    <li><a href="http://35.93.123.18/batsman">Batsman</a></li>
+    <li><a href="http://35.93.123.18/centuries">Centuries</a></li>
+    <li><a href="http://35.93.123.18/sponsors">Sponsors</a></li>
+    <li><a href="http://35.93.123.18/News">News</a></li>
+    <li><a href="http://35.93.123.18/about">About Us</a></li>
   </ul>
 </nav>
 		</head>
@@ -1056,15 +1059,15 @@ li:last-child {
   </style>
   <nav>
   <ul>
-    <li><a href="http://127.0.0.1:8000/">Home</a></li>
-    <li><a href="http://127.0.0.1:8000/wicket">Highest Wickets</a></li>
-    <li><a href="http://127.0.0.1:8000/video">Video</a></li>
-    <li><a href="http://127.0.0.1:8000/pointstable">Points Table</a></li>
-    <li><a href="http://127.0.0.1:8000/batsman">Batsman</a></li>
-    <li><a href="http://127.0.0.1:8000/centuries">Centuries</a></li>
-    <li><a href="http://127.0.0.1:8000/sponsors">Sponsors</a></li>
-    <li><a href="http://127.0.0.1:8000/News">News</a></li>
-    <li><a href="http://127.0.0.1:8000/about">About Us</a></li>
+    <li><a href="http://35.93.123.18/">Home</a></li>
+    <li><a href="http://35.93.123.18/wicket">Highest Wickets</a></li>
+    <li><a href="http://35.93.123.18/video">Video</a></li>
+    <li><a href="http://35.93.123.18/pointstable">Points Table</a></li>
+    <li><a href="http://35.93.123.18/batsman">Batsman</a></li>
+    <li><a href="http://35.93.123.18/centuries">Centuries</a></li>
+    <li><a href="http://35.93.123.18/sponsors">Sponsors</a></li>
+    <li><a href="http://35.93.123.18/News">News</a></li>
+    <li><a href="http://35.93.123.18/about">About Us</a></li>
   </ul>
 </nav>
 	<header>
@@ -1141,15 +1144,15 @@ li:last-child {
   </style>
   <nav>
   <ul>
-    <li><a href="http://127.0.0.1:8000/">Home</a></li>
-    <li><a href="http://127.0.0.1:8000/wicket">Highest Wickets</a></li>
-    <li><a href="http://127.0.0.1:8000/video">Video</a></li>
-    <li><a href="http://127.0.0.1:8000/pointstable">Points Table</a></li>
-    <li><a href="http://127.0.0.1:8000/batsman">Batsman</a></li>
-    <li><a href="http://127.0.0.1:8000/centuries">Centuries</a></li>
-    <li><a href="http://127.0.0.1:8000/sponsors">Sponsors</a></li>
-    <li><a href="http://127.0.0.1:8000/News">News</a></li>
-    <li><a href="http://127.0.0.1:8000/about">About Us</a></li>
+    <li><a href="http://35.93.123.18/">Home</a></li>
+    <li><a href="http://35.93.123.18/wicket">Highest Wickets</a></li>
+    <li><a href="http://35.93.123.18/video">Video</a></li>
+    <li><a href="http://35.93.123.18/pointstable">Points Table</a></li>
+    <li><a href="http://35.93.123.18/batsman">Batsman</a></li>
+    <li><a href="http://35.93.123.18/centuries">Centuries</a></li>
+    <li><a href="http://35.93.123.18/sponsors">Sponsors</a></li>
+    <li><a href="http://35.93.123.18/News">News</a></li>
+    <li><a href="http://35.93.123.18/about">About Us</a></li>
   </ul>
 </nav>
 
@@ -1211,15 +1214,15 @@ li:last-child {
   </style>
   <nav>
   <ul>
-    <li><a href="http://127.0.0.1:8000/">Home</a></li>
-    <li><a href="http://127.0.0.1:8000/wicket">Highest Wickets</a></li>
-    <li><a href="http://127.0.0.1:8000/video">Video</a></li>
-    <li><a href="http://127.0.0.1:8000/pointstable">Points Table</a></li>
-    <li><a href="http://127.0.0.1:8000/batsman">Batsman</a></li>
-    <li><a href="http://127.0.0.1:8000/centuries">Centuries</a></li>
-    <li><a href="http://127.0.0.1:8000/sponsors">Sponsors</a></li>
-    <li><a href="http://127.0.0.1:8000/News">News</a></li>
-    <li><a href="http://127.0.0.1:8000/about">About Us</a></li>
+    <li><a href="http://35.93.123.18/">Home</a></li>
+    <li><a href="http://35.93.123.18/wicket">Highest Wickets</a></li>
+    <li><a href="http://35.93.123.18/video">Video</a></li>
+    <li><a href="http://35.93.123.18/pointstable">Points Table</a></li>
+    <li><a href="http://35.93.123.18/batsman">Batsman</a></li>
+    <li><a href="http://35.93.123.18/centuries">Centuries</a></li>
+    <li><a href="http://35.93.123.18/sponsors">Sponsors</a></li>
+    <li><a href="http://35.93.123.18/News">News</a></li>
+    <li><a href="http://35.93.123.18/about">About Us</a></li>
   </ul>
 </nav>
     <style>
@@ -1289,7 +1292,7 @@ li:last-child {
     <section>
       <h2>Interested in becoming a partner or sponsor?</h2>
       <p>Contact us to learn more about partnership and sponsorship opportunities.</p>
-      <a href="http://127.0.0.1:8000/#contact"><button>Contact Us</button></a>
+      <a href="http://35.93.123.18/#contact"><button>Contact Us</button></a>
 
 """
     return HTMLResponse(content = sponsors)
